@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=swap");
+
+html {
+  box-sizing: content-box;
+  background: rgb(6, 6, 6);
+  background: linear-gradient(
+    90deg,
+    rgba(6, 6, 6, 0.8688215775923296) 0%,
+    rgba(0, 0, 0, 0.8006397594105114) 100%
+  );
+  background-repeat: no-repeat;
+}
+
+#profile-big {
+  border-radius: 50%;
+}
+#profile-small {
+  width: 5rem;
+  border-radius: 50%;
+}
+#my-name {
+  font-family: "Rubik 80s Fade", cursive;
+}
